@@ -1,13 +1,13 @@
 # Hi, I'm Peyton 👋🏻
 
-I'm a third year computer science student at the [University of British Columbia][UBC] and software developer with intern experience at [FLIR][FLIR]. You can find out more about where I've been at [my website](https://peytonseigo.ca/about/).
+I'm a third year computer science student at the **[University of British Columbia][UBC]** and software developer with intern experience at **[FLIR][FLIR]**. You can find out more about where I've been at **[my website](https://peytonseigo.ca/about/)**.
 
 > **I am avail­able for soft­ware in­tern­ships!** I am open for work dur­ing:
 >
 > - April to August 2021 (4 month term).
 > - April to December 2022 (4-8 month term(s)).
 >
-> Please feel free to reach out if you are look­ing to hire a com­puter sci­ence stu­dent.
+> Please feel free to **[reach out](https://peytonseigo.ca/contact)** if you are look­ing to hire a com­puter sci­ence stu­dent.
 
 
 [UBC]: https://ubc.ca/
