@@ -15,9 +15,11 @@ I'm a third year computer science student at the **[University of British Columb
 
 ## Find me online 🌐
 
-- **[Personal website](https://peytonseigo.ca)** 👨🏼‍💻✍🏼🎨 Projects, essays, blog posts, and more about me.
-- **[Twitter](https://twitter.com/peytonseigo)** 🎭💭 Odd thoughts.
-- **[LinkedIn](https://linkedin.com/in/peytonseigo)** 🎓🏢 A bit about my work experience, education, and volunteering.
+||||
+|-|-|-|
+|👨🏼‍💻🎨|**[Personal website](https://peytonseigo.ca)** | Projects, essays, blog posts, and more about me.
+|🐥💭|**[Twitter](https://twitter.com/peytonseigo)** | Odd thoughts.
+|🎓🏢|**[LinkedIn](https://linkedin.com/in/peytonseigo)** | A bit about my work experience, education, and volunteering.
 
 <!--
 **pseigo/pseigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
