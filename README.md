@@ -1,4 +1,4 @@
-# Hi, I'm Peyton 👋🏻
+# Hi, I'm Peyton 👋
 
 I'm a third year computer science student at the **[University of British Columbia][UBC]** and software developer with intern experience at **[FLIR][FLIR]**. You can find out more about where I've been at **[my website](https://peytonseigo.ca/about/)**.
 
