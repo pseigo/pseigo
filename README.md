@@ -9,17 +9,16 @@ I'm a third year computer science student at the **[University of British Columb
 >
 > Please feel free to **[reach out](https://peytonseigo.ca/contact)** if you are look­ing to hire a com­puter sci­ence stu­dent.
 
-
 [UBC]: https://ubc.ca/
 [FLIR]: https://www.flir.com/
 
 ## Find me online 🌐
 
-||||
+|-|Link|Description|
 |-|-|-|
-|👨🏼‍💻🎨|**[Personal website](https://peytonseigo.ca)** | Projects, essays, blog posts, and more about me.
-|🐥💭|**[Twitter](https://twitter.com/peytonseigo)** | Odd thoughts.
-|🎓🏢|**[LinkedIn](https://linkedin.com/in/peytonseigo)** | A bit about my work experience, education, and volunteering.
+|🎨|**[Personal website](https://peytonseigo.ca)** | Projects, essays, and more about me.
+|🏢|**[LinkedIn](https://linkedin.com/in/peytonseigo)** | My work experience, education, and volunteering.
+|💭|**[Twitter](https://twitter.com/peytonseigo)** | Odd thoughts.
 
 <!--
 **pseigo/pseigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
