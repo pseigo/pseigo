@@ -1,8 +1,8 @@
 # Hi, I'm Peyton 👋
 
-I'm a third year computer science student at the **[University of British Columbia][UBC]** and software developer with intern experience at **[FLIR][FLIR]**. You can read more about me at **[my website](https://peytonseigo.ca/about/)**.
+I'm a third year computer science student at the **[University of British Columbia][UBC]** and software developer with intern experience at **[FLIR][FLIR]**.
 
-> **I am avail­able for soft­ware in­tern­ships from April to December of 2022** (4 or 8 month place­ments). Take a look at some of the [pro­jects I’ve done](https://peytonseigo.ca/projects/), and if your team is look­ing for a com­puter sci­ence stu­dent, please feel free to [get in touch](https://peytonseigo.ca/contact)! 
+> **I am available for software internships from April to December of 2022** (4 or 8 month placements). See some of my [projects](https://peytonseigo.ca/projects/) and feel free to [get in touch](https://peytonseigo.ca/contact) if your team is looking for a computer science student!
 
 [UBC]: https://ubc.ca/
 [FLIR]: https://www.flir.com/
@@ -11,9 +11,9 @@ I'm a third year computer science student at the **[University of British Columb
 
 ||Link|Description|
 |-|-|-|
-|✍🏼|**[Personal website](https://peytonseigo.ca)** | Projects, essays and more about me.
+|✍🏼|**[Personal website](https://peytonseigo.ca/about)** | Projects, essays and more about me.
 |💼|**[LinkedIn](https://linkedin.com/in/peytonseigo)** | My work experience, education and volunteering.
-|🐤|**[Twitter](https://twitter.com/peytonseigo)** | Odd thoughts.
+|🐤|**[Twitter](https://twitter.com/peytonseigo)** | Odd thoughts and findings.
 
 <!--
 **pseigo/pseigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
