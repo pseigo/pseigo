@@ -2,9 +2,7 @@
 
 ---
 
-Hi, I am a computer science undergraduate and software developer.
-
-I am studying at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a> in Canada.
+Hi, I am a software developer and computer science undergraduate at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a> in Canada.
 
 My main experience is in C++ and Elixir. I have also written bits of C, Java, JavaScript, Python, Bash, SQL, etc.
 
