@@ -1,6 +1,4 @@
-**[LinkedIn](https://linkedin.com/in/peytonseigo)** | **[PeytonSeigo.ca](https://peytonseigo.ca/)**
-
----
+> **[LinkedIn](https://linkedin.com/in/peytonseigo)** | **[PeytonSeigo.ca](https://peytonseigo.ca/)**
 
 Hi, I am a software developer and computer science undergraduate at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a> in Canada.
 
