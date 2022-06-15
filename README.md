@@ -1,4 +1,4 @@
-Hi, I am a software developer and computer science undergraduate at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a> in Canada.
+Hi, I am a software developer and computer science undergraduate at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a>.
 
 I am most comfortable with C++ and Elixir. I have also written bits of Java, Bash, C, SQL, JavaScript, and Python.
 
