@@ -7,6 +7,8 @@ My mailbox is open, please feel free to reach out at the address printed on [my 
 
 <br>
 
+˗ˏˋ˖⁺‧₊ **[peytonseigo.ca](https://peytonseigo.ca/)**, **[LinkedIn](https://linkedin.com/in/peytonseigo)** ₊‧⁺ˎ˖ˊ˗
+
 ```elixir
 %{
   my_site: {"peytonseigo.ca", "https://peytonseigo.ca"},
@@ -17,7 +19,3 @@ My mailbox is open, please feel free to reach out at the address printed on [my 
 |> (&("˗ˏˋ˖⁺‧₊ #{&1} ₊‧⁺ˎ˖ˊ˗")).()
 |> User.append_to_bio(User.get_user!("pseigo"))
 ```
-
-˗ˏˋ˖⁺‧₊ **[peytonseigo.ca](https://peytonseigo.ca/)**, **[LinkedIn](https://linkedin.com/in/peytonseigo)** ₊‧⁺ˎ˖ˊ˗
-
-<!-- \[ **[peytonseigo.ca](https://peytonseigo.ca/)**, **[LinkedIn](https://linkedin.com/in/peytonseigo)** \] -->
