@@ -9,6 +9,6 @@ My mailbox is open, please feel free to reach out at the address printed on [my 
 
 ## Links
 
-˗ˏˋ˖⁺‧₊ **[peytonseigo.ca](https://peytonseigo.ca)**, **[linkedin.com](https://linkedin.com/in/peytonseigo)** ₊‧⁺ˎ˖ˊ˗
+˗ˏˋ˖⁺‧₊ **[peytonseigo.com](http://peytonseigo.com)**, **[linkedin.com](https://linkedin.com/in/peytonseigo)** ₊‧⁺ˎ˖ˊ˗
 
 ([make your own!](https://replit.com/@pseigo/fun-markdown-link-generator))
