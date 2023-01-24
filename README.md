@@ -1,12 +1,8 @@
 ## Bio
 
-Hi, I am a software developer and computer science undergraduate at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a>.
+Hi, I am a software developer and computer science undergraduate at the <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">University of British Columbia</a>. I've spent most of my time with C++ and Elixir in Windows and Linux environments, and have a lot more to learn. Right now I am focusing on learning design intuition and building small things thoughtfully.
 
-I am most comfortable with C++ and Elixir. I have also written bits of Java, Bash, C, SQL, JavaScript, and Python.
+My mailbox is open, feel free to reach out at the address on my home page.
 
-I value working in lean, agile teams with open-minded, pragmatic idealists. At this time, I am based in western Canada and open to remote work. 
-My mailbox is open, please feel free to reach out at the address printed on [my site](https://peytonseigo.ca).
-
-## Links
-
-˗ˏˋ˖⁺‧₊ **[peytonseigo.com](http://peytonseigo.com)**, **[linkedin.com](https://linkedin.com/in/peytonseigo)** ₊‧[⁺](https://replit.com/@pseigo/fun-markdown-link-generator)ˎ˖ˊ˗
+- [home page](http://peytonseigo.com) \[peytonseigo.com\]
+- [linkedin](https://linkedin.com/in/peytonseigo) \[linkedin.com\]
