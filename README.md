@@ -4,5 +4,6 @@ Hi, I am a software developer and <a href="https://www.cs.ubc.ca/about-our-depar
 
 My mailbox is open, feel free to reach out at the address on my home page.
 
-- [home page](http://peytonseigo.com) \[peytonseigo.com\]
+- [home page](http://peytonseigo.ca) \[peytonseigo.ca\]
 - [linkedin](https://linkedin.com/in/peytonseigo) \[linkedin.com\]
+- [threads](https://www.threads.net/@peytonseigo) \[threads.net\]
