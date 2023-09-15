@@ -17,7 +17,7 @@ I have 16 months professional experience maintaining C++ SDKs and have a lot mor
 High level goals:
 
 - Habitualizing best practices.
-- Learning software system design intuition.
+- Learning design intuition.
 - Understanding the business of software.
 - Working in great teams.
  
