@@ -25,6 +25,7 @@ Areas of focus:
 
 - Software architecture
 - Data-oriented design
+- Application security
 - Distributed systems
 
 **Currently**: hacking on small, full-stack apps with minimal dependencies – implementing mobile, web, and desktop clients with supporting services.
