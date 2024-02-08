@@ -17,4 +17,3 @@ Programming languages I tend to use:
 My mailbox is open, feel free to reach out at the address on my [website \[peytonseigo.ca\]](http://peytonseigo.ca).
 
 - [LinkedIn \[linkedin.com\]](https://linkedin.com/in/peytonseigo)
-- [Threads \[threads.net\]](https://www.threads.net/@peytonseigo)
