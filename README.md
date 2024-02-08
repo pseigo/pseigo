@@ -1,8 +1,6 @@
-## Bio
-
-Hi, I am a software developer and <a href="https://www.cs.ubc.ca/about-our-department" target="_blank" rel="noreferrer noopener">computer science \[cs.ubc.ca\]</a> undergraduate.
-
 ## Code
+
+Programming languages I tend to use:
 
 ||Languages|
 |-:|:-|
@@ -11,8 +9,8 @@ Hi, I am a software developer and <a href="https://www.cs.ubc.ca/about-our-depar
 |Sometimes|Python, SQL, HTML & CSS, JavaScript|
 |Interested|Rust, Kotlin (Android), Go|
 
-- 16 months professional experience contributing to products powered by C++
-- Comfortable developing on Linux, Windows, or macOS
+- 16 months professional experience contributing to products powered by C++.
+- Comfortable developing on Linux, Windows, or macOS.
 
 ##
 
