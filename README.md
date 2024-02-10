@@ -10,7 +10,7 @@ Programming languages I tend to use:
 |Interested|Rust, Kotlin (Android), Go|
 
 - 16 months professional experience contributing to products powered by C++.
-- Comfortable developing on Linux, Windows, or macOS.
+- Comfortable developing on Linux, macOS, and Windows.
 
 ## Contact
 
