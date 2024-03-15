@@ -5,8 +5,8 @@ Programming languages I tend to use:
 ||Languages|
 |-:|:-|
 |Mostly|C++, Elixir|
-|Frequently|Java, Swift (iOS), Bash
-|Sometimes|Python, SQL, HTML & CSS, JavaScript|
+|Frequently|SQL, Java, Swift (iOS)|
+|Sometimes|Python, Bash, HTML & CSS, JavaScript|
 |Interested|Rust, Kotlin (Android), Go|
 
 - 16 months professional experience contributing to products powered by C++.
