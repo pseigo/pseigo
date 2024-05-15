@@ -21,5 +21,5 @@ Programming languages I tend to use:
 
 #### ~'*_-%^\./&'~
 
-- [What does a billion look like?](https://pseigo.github.io/what-does-a-billion-look-like/)
+- <a href="https://pseigo.github.io/what-does-a-billion-look-like" target="_blank">What does a billion look like?</a>
 - [swing](https://peytonseigo.ca/projects/swing/) / _[src](https://peytonseigo.ca/projects/swing/src/main.js)_ / _controls: W, S, shift+W, shift+S_
