@@ -17,8 +17,9 @@ Programming languages I tend to use:
 - My mailbox is open, feel free to reach out at the address on my [website \[peytonseigo.ca\]](http://peytonseigo.ca).
 - [LinkedIn \[linkedin.com\]](https://linkedin.com/in/peytonseigo)
 
-## 
+<hr>
 
-- [What does a billion look like?](https://pseigo.github.io/what-does-a-billion-look-like/) ~ _[src](https://github.com/pseigo/what-does-a-billion-look-like)_
-- [swing](https://peytonseigo.ca/projects/swing/) ~ _[src](https://peytonseigo.ca/projects/swing/src/main.js)_
-  - _controls: W, S, shift+W, shift+S_
+#### ~'*_-%^\./&'~
+
+- [What does a billion look like?](https://pseigo.github.io/what-does-a-billion-look-like/)
+- [swing](https://peytonseigo.ca/projects/swing/) / _[src](https://peytonseigo.ca/projects/swing/src/main.js)_ / _controls: W, S, shift+W, shift+S_
