@@ -2,15 +2,20 @@
 
 - 16 months professional experience contributing to enterprise products powered by C++.
 - Comfortable developing on Linux, macOS, and Windows.
+- Seeking backend and full-stack software development roles.
 
 ## Stack
+
+Tools I tend to use in my projects.
 
 |Frequency|Technology|
 |-:|:-|
 |Everyday|C++, Elixir, JavaScript, HTML & CSS, SQL|
 |Often|Python, Swift (iOS)|
 |Sometimes|Java, Bash|
-|Someday|Rust, Go, Kotlin (Android), Flutter, React Native|
+|Bucket List|Rust, Go, Kotlin (Android), Flutter, React Native|
+
+_I am also flexible in using other technologies, if needed._
 
 ## Doodles
 
