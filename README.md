@@ -1,25 +1,18 @@
-## Code
+## Work
 
-Programming languages I tend to use:
-
-||Languages|
-|-:|:-|
-|Mostly|C++, Elixir|
-|Frequently|SQL, Java, Swift (iOS)|
-|Sometimes|Python, Bash, HTML & CSS, JavaScript|
-|Interested|Rust, Kotlin (Android), Go|
-
-- 16 months professional experience contributing to products powered by C++.
+- 16 months professional experience contributing to C++-powered products.
 - Comfortable developing on Linux, macOS, and Windows.
 
-## Contact
+## Stack
 
-- My mailbox is open, feel free to reach out at the address on my [website \[peytonseigo.ca\]](http://peytonseigo.ca).
-- [LinkedIn \[linkedin.com\]](https://linkedin.com/in/peytonseigo)
+|Frequency|Technology|
+|-:|:-|
+|Everyday|C++, Elixir, JavaScript, HTML & CSS, SQL|
+|Often|Python, Swift (iOS)|
+|Sometimes|Java, Bash|
+|Someday|Rust, Go, Kotlin (Android), Flutter, React Native|
 
-<hr>
-
-#### ~'*_-%^\./&'~
+## Doodles
 
 - [What does a billion look like?](https://pseigo.github.io/what-does-a-billion-look-like/)
 - [swing](https://peytonseigo.ca/projects/swing/) / _[src](https://peytonseigo.ca/projects/swing/src/main.js)_ / _controls: W, S, shift+W, shift+S_
