@@ -1,6 +1,6 @@
 ## Work
 
-- 16 months professional experience contributing to C++-powered products.
+- 16 months professional experience contributing to enterprise products powered by C++.
 - Comfortable developing on Linux, macOS, and Windows.
 
 ## Stack
