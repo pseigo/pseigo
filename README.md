@@ -12,6 +12,7 @@
 |Everyday|C++, Elixir, SQL, HTML, CSS, JavaScript|
 |Often|Swift (iOS), GDScript (Godot), Python|
 |Sometimes|Java, Bash|
+|Experimenting|Svelte|
 |Bucket List|Rust, Go, Kotlin (Android), Flutter, React Native|
 
 _I am flexible in using and learning other technologies if needed._
