@@ -11,7 +11,7 @@ Tools I tend to use in my projects.
 |Frequency|Technology|
 |-:|:-|
 |Everyday|C++, Elixir, SQL, JavaScript, HTML & CSS|
-|Often|Swift (iOS), Python|
+|Often|Swift (iOS), Python, GDScript (Godot)|
 |Sometimes|Java, Bash|
 |Bucket List|Rust, Go, Kotlin (Android), Flutter, React Native|
 
