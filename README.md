@@ -1,8 +1,9 @@
 ## Work
 
-- 🛠️&nbsp; 16 months professional [experience](https://linkedin.com/in/peytonseigo) contributing to enterprise products powered by C++ (among other tools). 
+- 🛠️&nbsp; 16 months professional [experience](https://linkedin.com/in/peytonseigo) contributing to enterprise products powered by C++. 
+- 📜&nbsp; Studied computer science at the [University of British Columbia](https://www.cs.ubc.ca/about-our-department).
 - 💻&nbsp; Comfortable developing on Linux, macOS, and Windows, in-person and remote.
-- 💼&nbsp; Seeking back-end and full-stack software development roles.
+- 💼&nbsp; Currently seeking **back-end** and **full-stack software development** roles.
 
 ## Stack
 
