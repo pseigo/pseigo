@@ -6,7 +6,7 @@
 
 ## Stack
 
-Tools I tend to use in my projects.
+Tools I've been using in my projects:
 
 |Frequency|Technology|
 |-:|:-|
