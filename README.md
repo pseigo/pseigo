@@ -1,4 +1,4 @@
-## Work
+## Info
 
 - 🛠️&nbsp; 16 months professional [experience](https://linkedin.com/in/peytonseigo) contributing to enterprise products powered by C++. 
 - 📜&nbsp; Studied computer science at the [University of British Columbia](https://www.cs.ubc.ca/about-our-department).
