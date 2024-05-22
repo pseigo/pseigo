@@ -7,15 +7,19 @@
 
 ## Stack
 
+> ... we are all shaped by the tools we train ourselves to use _― Edsger W. Dijkstra_
+
+
 |Frequency|Technology|
 |-:|:-|
-|Everyday|C++, Elixir, SQL, HTML, CSS, JavaScript|
-|Often|Swift (iOS), GDScript (Godot), Python|
-|Sometimes|Java, Bash|
-|Experimenting|Svelte|
+|Often|C++\*, Elixir\*, SQL, HTML, CSS, JavaScript|
+|Periodically|Swift (iOS), GDScript (Godot), Java|
+|Occasionally|Python, Bash|
+|||
 |Bucket List|Rust, Go, Kotlin (Android), Flutter, React Native|
+|Experimenting|Svelte|
 
-_I am flexible in using and learning other technologies if needed._
+_\* = favourite_
 
 ## Doodles
 
