@@ -10,12 +10,12 @@ Tools I tend to use in my projects.
 
 |Frequency|Technology|
 |-:|:-|
-|Everyday|C++, Elixir, JavaScript, HTML & CSS, SQL|
-|Often|Python, Swift (iOS)|
+|Everyday|C++, Elixir, SQL, JavaScript, HTML & CSS|
+|Often|Swift (iOS), Python|
 |Sometimes|Java, Bash|
 |Bucket List|Rust, Go, Kotlin (Android), Flutter, React Native|
 
-_I am also flexible in using other technologies, if needed._
+_I am also flexible in learning and using other technologies if needed._
 
 ## Doodles
 
