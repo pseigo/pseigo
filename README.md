@@ -13,10 +13,10 @@
 |Frequency|Technology|
 |-:|:-|
 |Often|C++\*, Elixir\*, SQL, HTML, CSS, JavaScript|
-|Periodically|Swift (iOS), GDScript (Godot), Java|
+|Periodically|Swift for iOS, Godot GDScript, Java|
 |Occasionally|Python, Bash|
 |||
-|Bucket List|Rust, Go, Kotlin (Android), Flutter, React Native|
+|Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
 |Experimenting|Svelte|
 
 _\* = favourite_
