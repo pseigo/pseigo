@@ -19,7 +19,7 @@
 |Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
 |Experimenting|Svelte|
 
-_\* = favourite_
+_\* = favourites_
 
 ## Doodles
 
