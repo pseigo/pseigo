@@ -17,7 +17,7 @@
 |Occasionally|Python, Bash|
 |||
 |Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
-|Experimenting|Svelte|
+|Experimenting|[Svelte](https://github.com/pseigo/svelte-minimal)|
 
 _\* = favourites_
 
