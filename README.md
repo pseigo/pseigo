@@ -13,7 +13,7 @@
 |Frequency|Technology|
 |-:|:-|
 |Often|C++\*, Elixir\*, SQL, HTML, CSS, JavaScript|
-|Periodically|Swift for iOS, Godot GDScript, Java|
+|Periodically|Java, Godot GDScript, Swift for iOS|
 |Occasionally|Python, Bash|
 |||
 |Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
