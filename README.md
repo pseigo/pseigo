@@ -19,7 +19,7 @@
 |Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
 |Experimenting|[Svelte](https://github.com/pseigo/svelte-minimal)|
 
-_\* = favourites_
+_\* = most experience_
 
 ## Doodles
 
