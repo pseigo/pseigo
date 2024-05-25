@@ -26,5 +26,5 @@ _<strong>\*</strong> = most experience_
 |||
 |-|-|
 | [What does a billion look like?](https://pseigo.github.io/what-does-a-billion-look-like/) | _[src](https://github.com/pseigo/what-does-a-billion-look-like)_ |
-| [one column, full-width sections](https://pseigo.github.io/html-one-column-full-width-sections/) (html&nbsp;/&nbsp;css) | _[src](https://github.com/pseigo/html-one-column-full-width-sections)_ |
+| [One column, full-width sections](https://pseigo.github.io/html-one-column-full-width-sections/) (html&nbsp;/&nbsp;css) | _[src](https://github.com/pseigo/html-one-column-full-width-sections)_ |
 | [swing](https://peytonseigo.ca/projects/swing/) (_controls: W, S, shift+W, shift+S_) | _[src](https://peytonseigo.ca/projects/swing/src/main.js)_ |
