@@ -12,14 +12,14 @@
 
 |Frequency|Technology|
 |-:|:-|
-|Often|C++**\***, Elixir**\***, SQL, HTML, CSS, JavaScript|
+|Often|C++<strong>\*</strong>, Elixir<strong>\*</strong>, SQL, HTML, CSS, JavaScript|
 |Periodically|Java, Godot GDScript, Swift for iOS|
 |Occasionally|Python, Bash|
 |||
 |Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
 |Experimenting|[Svelte](https://github.com/pseigo/svelte-minimal)|
 
-_**\*** = most experience_
+_<strong>\*</strong> = most experience_
 
 ## Doodles
 
