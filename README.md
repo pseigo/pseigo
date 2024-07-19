@@ -7,9 +7,6 @@
 
 ## Stack
 
-> ... we are all shaped by the tools we train ourselves to use _― Edsger W. Dijkstra_
-
-
 |Frequency|Technology|
 |-:|:-|
 |Often|C++<strong>\*</strong>, Elixir<strong>\*</strong>, SQL, HTML, CSS, JavaScript|
@@ -19,6 +16,8 @@
 |Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
 
 _<strong>\*</strong> = most experience_
+
+> ... we are all shaped by the tools we train ourselves to use _― Edsger W. Dijkstra_
 
 ## Doodles
 
