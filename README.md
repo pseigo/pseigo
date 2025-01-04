@@ -17,7 +17,7 @@
 
 _<strong>\*</strong> = most experience_
 
-> ... we are all shaped by the tools we train ourselves to use _― Edsger W. Dijkstra_
+> ... we are all shaped by the tools we train ourselves to use _― Dijkstra, E. W._
 
 ## Doodles
 
