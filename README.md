@@ -9,11 +9,11 @@
 
 |Frequency|Technology|
 |-:|:-|
-|Often|C++<strong>\*</strong>, Elixir<strong>\*</strong>, SQL, HTML, CSS, JavaScript|
-|Periodically|Java, Swift for iOS, React, Godot GDScript|
+|Often|C++<strong>\*</strong>, Elixir<strong>\*</strong>, SQL, JavaScript, HTML, CSS|
+|Periodically|Java, React, Swift (iOS), Godot GDScript|
 |Occasionally|Python, Bash|
 |||
-|Bucket List|Rust, Go, Kotlin for Android, Flutter, React Native|
+|Bucket List|Rust, Go, Kotlin (Android), React Native, Flutter|
 
 _<strong>\*</strong> = most experience_
 
