@@ -1,28 +1,26 @@
-## Info
+## stack
 
-- 🛠️&nbsp; ~1.5 years professional experience contributing to products powered by C++
-- 📜&nbsp; Studied [computer science](https://www.cs.ubc.ca/about-our-department) at the University of British Columbia (UBC)
-- 💻&nbsp; Comfortable developing on Linux, macOS, and Windows, in-person and remote
-- 💼&nbsp; Currently seeking back-end, desktop, full-stack, and other software development roles
-
-## Stack
-
-|Frequency|Technology|
+|frequency|technology|
 |-:|:-|
-|Often|C++<strong>\*</strong>, Elixir<strong>\*</strong>, SQL, JavaScript, HTML, CSS|
-|Periodically|Java, React, Swift (iOS), GDScript (Godot)|
-|Occasionally|Python, Bash|
+|often|C++, Elixir, SQL, JavaScript/TS, HTML, CSS|
+|occasionally|Python, Bash|
+|periodically|Java, React, Swift (iOS), GDScript (Godot)|
 |||
-|Bucket List|Rust, Go, Kotlin (Android), React Native, Flutter|
+|bucket list|Rust, Go, Kotlin (Android), React Native, Flutter|
 
-_<strong>\*</strong> = most experience_
+> ... we are all shaped by the tools we train ourselves to use ... _― Dijkstra_
 
-> ... we are all shaped by the tools we train ourselves to use. _― Dijkstra_
-
-## Doodles
+### doodles
 
 |||
 |-|-|
 | [_What does a billion look like?_](https://pseigo.github.io/what-does-a-billion-look-like/) | _[src](https://github.com/pseigo/what-does-a-billion-look-like)_ |
 | [One column layout with full-width sections](https://pseigo.github.io/html-one-column-full-width-sections/) <br> _(responsive html&nbsp;/&nbsp;css template)_ | _[src](https://github.com/pseigo/html-one-column-full-width-sections)_ |
 | [_swing_](https://peytonseigo.ca/projects/swing/) <br> (_controls: W, S, shift+W, shift+S_) | _[src](https://peytonseigo.ca/projects/swing/src/main.js)_ |
+
+### Info
+
+- 🛠️&nbsp; ~1.5 years professional experience contributing to products powered by C++
+- 📜&nbsp; studied [computer science at UBC](https://www.cs.ubc.ca/about-our-department)
+- 💻&nbsp; building things for fun
+- 💼&nbsp; seeking software development roles (backend, full-stack, tools, etc.)
