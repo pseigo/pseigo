@@ -3,12 +3,10 @@
 |frequency|technology|
 |-:|:-|
 |often|C++, Elixir, SQL, JavaScript/TS, HTML, CSS|
-|occasionally|Python, Bash|
-|periodically|Java, React, Swift (iOS), GDScript (Godot)|
+|occasional|Python, Bash|
+|periodic|Java, React, Swift (iOS), GDScript (Godot)|
 |||
-|bucket list|Rust, Go, Kotlin (Android), React Native, Flutter|
-
-> ... we are all shaped by the tools we train ourselves to use ... _― Dijkstra_
+|bucket list|Rust, Go, Kotlin, React Native, Flutter|
 
 ### doodles
 
