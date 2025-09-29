@@ -16,7 +16,7 @@
 |occasional|Python, Bash|
 |periodic|Java, React, Swift (iOS), GDScript (Godot)|
 |||
-|bucket list|Rust, Go, Kotlin, React Native, Flutter|
+|bucket list|Rust, Go, Kotlin (Android), React Native, Flutter|
 
 ### doodles
 
