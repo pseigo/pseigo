@@ -2,7 +2,7 @@
 
 |frequency|technology|
 |-:|:-|
-|often|C++, Elixir, SQL, JavaScript/TS, HTML, CSS|
+|mostly|C++, Elixir, SQL, JavaScript/TS, HTML, CSS|
 |occasional|Python, Bash|
 |periodic|Java, React, Swift (iOS), GDScript (Godot)|
 |||
